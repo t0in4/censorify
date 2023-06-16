@@ -12,7 +12,7 @@ $ vi readwords.js
 hit on keyboard "esc"  
 then  
 
-:wq 
+    :wq 
 
 save and exit from vi  
       
