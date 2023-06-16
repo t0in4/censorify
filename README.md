@@ -11,6 +11,6 @@ $ vi readwords.js
     console.log(censor.censor("A very gloomy day."));  
       
     
-    
+      
     :wq // save and exit from vi  
 $ node readwords.js  
