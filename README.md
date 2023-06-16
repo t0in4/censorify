@@ -9,7 +9,12 @@ $ vi readwords.js
     censor.addCensoredWord("gloomy");  
     console.log(censor.getCensoredWords());  
     console.log(censor.censor("A very gloomy day."));  
-:wq // save and exit from vi  
+hit on keyboard "esc"  
+then  
+
+:wq 
+
+save and exit from vi  
       
     
       
