@@ -9,8 +9,9 @@ $ vi readwords.js
     censor.addCensoredWord("gloomy");  
     console.log(censor.getCensoredWords());  
     console.log(censor.censor("A very gloomy day."));  
+:wq // save and exit from vi  
       
     
       
-    :wq // save and exit from vi  
+    
 $ node readwords.js  
